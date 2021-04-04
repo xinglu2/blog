@@ -1,0 +1,243 @@
+body {
+    width: 787px;
+    height: 1550px;
+    border: 5px solid #CBCBCB;
+    margin: 100px auto;
+}
+.title {
+    height: 46px;
+    width: 787px;
+    font-size: 34px;
+    text-align: center;
+    color: #656467;
+    font-weight: bold;
+    margin-top: 13px;
+}
+
+.list {
+    height: 34px;
+    background-color: #0099FF;
+    border-bottom: 2px solid #788A95;
+}
+.list p{
+    height: 9px;
+    background-color: #0099FF;
+}
+
+.list li a {
+    color: #F5DFEA;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left:34px;
+    font-size: 19px;
+}
+
+.list li{
+    list-style-type: none;
+    display: inline;
+}
+
+.section{
+    float: left;
+    height: 387px;
+}
+.bl{
+    height: 1387px;
+    border-bottom: 2px solid #60BFFF;
+}
+
+.section header{
+    text-align: center;
+    height: 34px;
+    width: 543px;
+    font-size: 19px;
+    font-weight: bolder;
+    border-bottom: #60BFFF dashed 2px;
+    margin: 18px 11px;
+    color: #585858;
+}
+
+.section .article1{
+    width: 568px;
+    height: 174px;
+    border: solid 2px #69C3FF;
+    margin: 13px 13px 13px 19px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section .article2{
+    width: 568px;
+    height: 298px;
+    border: solid 2px #69C3FF;
+    margin: 13px 13px 13px 19px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section .article3{
+    width: 568px;
+    height: 242px;
+    border: solid 2px #69C3FF;
+    margin: 13px 13px 13px 19px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section .article4{
+    width: 568px;
+    height: 312px;
+    border: solid 2px #69C3FF;
+    margin: 13px 13px 13px 19px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section .article5{
+    width: 568px;
+    height: 232px;
+    border: solid 2px #69C3FF;
+    margin: 13px 13px 13px 19px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.article1 .main1{
+    height: 59px;
+    line-height: 21px;
+    margin-left: 13px;
+    color: #5a5a5a;
+}
+.article2 .main2{
+    height: 180px;
+    margin-left: 13px;
+    color: #5a5a5a;
+}
+.article3 .main3{
+    height: 123px;
+    line-height: 21px;
+    margin-left: 13px;
+    color: #5a5a5a;
+}
+.article4 .main4{
+    height: 190px;
+    line-height: 21px;
+    margin-left: 13px;
+    color: #5a5a5a;
+}
+.article5 .main5{
+    height: 110px;
+    line-height: 21px;
+    margin-left: 13px;
+    color: #5a5a5a;
+}
+.section .footer1{
+    width: 543px;
+    height: 45px;
+    border-top: #60BFFF solid 2px ;
+    padding-top: 10px;
+    margin: 0px 11px;
+    color: #8C888D;
+}
+ .article2 .footer2{
+    width: 543px;
+    height: 90px;
+    border-top: #60BFFF solid 2px ;
+    padding-top: 10px;
+    margin: 0px 11px;
+    color: #8C888D;
+}
+.article3 .footer3{
+    width: 543px;
+    height: 90px;
+    border-top: #60BFFF solid 2px ;
+    padding-top: 10px;
+    margin: 0px 11px;
+    color: #8C888D;
+}
+.article4 .footer4{
+    width: 543px;
+    height: 90px;
+    border-top: #60BFFF solid 2px ;
+    padding-top: 10px;
+    margin: 0px 11px;
+    color: #8C888D;
+}
+.article5 .footer5{
+    width: 543px;
+    height: 90px;
+    border-top: #60BFFF solid 2px ;
+    padding-top: 10px;
+    margin: 0px 11px;
+    color: #8C888D;
+}
+.aside1{
+    margin-left: 605px;
+    width: 165px;
+    height: 670px;
+    background-color: #E4E4E4;
+}
+.aside1 h1{
+    font-size: 25px;
+    display: block;
+    color: #72757E;
+    margin: 23px 0px 20px 17px;
+}
+
+.aside1 .div11{
+    height: 12px;
+    background-color: white;
+} 
+
+.aside1 .blue{
+    color: #58B5F2;
+    padding: 3px 15px;
+    font-size: 17px;
+}
+.aside1 .p11{
+    font-size: 17px;
+    line-height: 25px;
+    color: #ADA09A;
+}
+.aside1 .p11{
+    display: block;
+    padding: 3px 11px;
+    margin-left: 3px;
+}
+.aside2{
+    margin-left: 605px;
+    width: 165px;
+    height: 500px;
+    background-color: #E4E4E4;
+}
+.aside2 h1{
+    font-size: 25px;
+    display: block;
+    color: #72757E;
+    margin: 23px 0px 20px 17px;
+}
+
+.aside2 .div12{
+    height: 12px;
+    background-color: white;
+} 
+
+.aside2 .blue{
+    color: #58B5F2;
+    padding: 3px 15px;
+    font-size: 17px;
+}
+.aside2 .p12{
+    font-size: 17px;
+    line-height: 25px;
+    color: #ADA09A;
+}
+.aside2 .p12{
+    display: block;
+    padding: 3px 11px;
+    margin-left: 3px;
+}
+.fot{
+    text-align: center;
+    color: #8C888D;
+    padding-top: 7px;
+}
+.list a:hover{
+    background-color: #cecaca;
+    color: rgb(172, 108, 108);
+}
